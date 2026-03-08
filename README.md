@@ -14,13 +14,3 @@ concepts.
 
 ## Learning Curriculum
 Courses followed from **[KodeKloud](https://kodekloud.com)**
-
-## Roadmap
-- [x] 12 Factor App
-- [ ] DevOps Pre-Requisite Course
-- [ ] Linux Mastery
-- [ ] Shell Scripting
-- [ ] Git
-- [ ] Jenkins
-- [ ] Docker
-- [ ] Kubernetes
