@@ -1,4 +1,3 @@
-```
 | Command | Use |
 |---|---|
 | `yum install git` | Install Git |
@@ -27,4 +26,3 @@
 | `origin` | Default name given to remote repo when cloned |
 | `-u flag` | Sets upstream — links local branch to remote branch permanently |
 | `Local vs Remote` | Local = your machine, Remote = GitHub/GitLab etc. |
-```
